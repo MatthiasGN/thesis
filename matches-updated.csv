@@ -1,0 +1,968 @@
+match_name,Symbol
+microsoft,MSFT
+apple,AAPL
+nvidia,NVDA
+google,GOOG
+amazon,AMZN
+meta,META
+tsmc,TSM
+broadcom,AVGO
+tesla,TSLA
+tencent,TCEHY
+samsung electronics,005930.KS
+asml,ASML
+oracle,ORCL
+salesforce,CRM
+netflix,NFLX
+amd,AMD
+adobe,ADBE
+sap,SAP
+qualcomm,QCOM
+,BABA
+,PDD
+cisco systems,CSCO
+intuit,INTU
+applied materials,AMAT
+texas instruments,TXN
+ibm,IBM
+servicenow,NOW
+uber,UBER
+intel corporation,INTC
+micron technology,MU
+schneider electric,SU.PA
+booking.com,BKNG
+lam research,LRCX
+arm,ARM
+keyence,6861.T
+tokyo electron,8035.T
+sony,SONY
+airbnb,ABNB
+analog devices,ADI
+,SHOP
+adp,ADP
+,PANW
+kla,KLAC
+,3690.HK
+dell technologies,DELL
+fiserv,FI
+sk hynix,000660.KS
+arista,ANET
+,MELI
+synopsys,SNPS
+cadence design systems,CDNS
+,CRWD
+hon hai,2317.TW
+paypal,PYPL
+,NXPI
+,WDAY
+equinix,EQIX
+netease com,NTES
+marvell technology,MRVL
+,SPOT
+constellation,CSU.TO
+xiaomi,XIACF
+nintendo,7974.T
+,PLTR
+,COIN
+roper technologies,ROP
+,SNOW
+dassault systemes,DSY.PA
+mediatek,2454.TW
+microchip technology,MCHP
+,JD
+super mico computer inc supermicro,SMCI
+,DASH
+,TEAM
+autodesk,ADSK
+black,SQ
+infineon technologies,IFX.DE
+,FTNT
+,TTD
+te connectivity,TEL
+datadog,DDOG
+,CPNG
+iqvia,IQV
+baidu,BIDU
+,FIS
+,ADYEN.AS
+,SE
+costar group,CSGP
+wolters kluwer,WKL.AS
+stmicroelectronics,STM
+,MPWR
+electronic arts,EA
+,TCOM
+,1024.HK
+murata manufacturing,6981.T
+,VEEV
+,6146.T
+garmin,GRMN
+asm,ASM.AS
+hubspot,HUBS
+quanta computer,2382.TW
+fico,FICO
+,6723.T
+onsemi,ON
+global payment technologies,GPN
+ansys,ANSS
+hp inc,HPQ
+amadeus,AMS.MC
+snap,SNAP
+globalfoundries,GFS
+canon,7751.T
+,ZS
+,MDB
+,SPLK
+keysight technologies,KEYS
+,DIDIY
+,2308.TW
+take two,TTWO
+,APP
+,NET
+ebay,EBAY
+,SYM
+advantest,6857.T
+,MBLY
+,0981.HK
+laser technology,6920.T
+,DELTA.BK
+,KKS.F
+,ASX
+microstrategy,MSTR
+hewlett packard enterprise hpe,HPE
+netapp,NTAP
+,035420.KS
+align technology,ALGN
+,IOT
+ptc,PTC
+panasonic,6752.T
+,WTC.AX
+nokia,NOK
+zomato,ZOMATO.NS
+united microelectronics,UMC
+tyler technologies,TYL
+entegris,ENTG
+nec corporation,6701.T
+leidos,LDOS
+zoom,ZM
+seagate technology,STX
+,GDDY
+ericsson worldwide,ERIC
+,PSTG
+check point software technologies,CHKP
+factset,FDS
+,OKTA
+zebra technologies,ZBRA
+bentley systems,BSY
+,035720.KS
+,NTNX
+,ENPH
+,HOOD
+ss&c,SSNC
+akamai,AKAM
+expedia group,EXPE
+standex,YNDX.ME
+sage,SGE.L
+skyworks solutions,SWKS
+lenovo,0992.HK
+epam systems,EPAM
+nice,NICE
+,DT
+grab,GRAB
+trimble,TRMB
+nexon automation,3659.T
+manhattan associates,MANH
+,TOST
+logitech,LOGI
+,ADE.OL
+xerox,XRO.AX
+bandai namco,7832.T
+aspentech,AZPN
+,GEN
+,6669.TW
+,688012.SS
+jd com,6618.HK
+docusign,DOCU
+,ALAB
+jack henry associates,JKHY
+,3034.TW
+,ZI
+lg electronics,066570.KS
+juniper networks,JNPR
+,PATH
+,TWLO
+,ESTC
+nemetschek group,NEM.F
+,BESI.AS
+rakuten,4755.T
+asus,2357.TW
+,ONTO
+,FUTU
+oracle,4716.T
+paycom,PAYC
+,PCOR
+,CYBR
+unity,U
+amdocs,DOX
+f5,FFIV
+,Z
+lattice semiconductor,LSCC
+,ALE.WA
+,GWRE
+,CART
+,PCTY
+,MNDY
+,2395.TW
+,QRVO
+,DAY
+informatica,INFA
+,CFLT
+,GTLB
+,VIPS
+,ROKU
+,3037.TW
+,CAR.AX
+,MTCH
+,259960.KS
+wayfair,W
+descartes systems,DSGX
+globant,GLOB
+,9766.T
+opentext,OTEX
+,2379.TW
+,MMYT
+coherent corp,COHR
+amkor,AMKR
+,DBX
+,RDDT
+,6488.TWO
+,DHER.F
+,SOFI
+macom,MTSI
+,LMN.V
+etsy,ETSY
+,2413.T
+,LYFT
+,SPSC
+,CHWY
+,POLICYBZR.NS
+,ALTR
+,ZAL.DE
+trend micro inc,4704.T
+,TOI.V
+schibsted,SCHA.OL
+,0241.HK
+,S
+ccc intelligent solutions,CCCS
+wix,WIX
+,HCP
+,3661.TW
+next,NXT.AX
+zoho,3092.T
+,2408.TW
+entain,ENT.L
+,QLYS
+,KVYO
+,RBRK
+,BILI
+,3064.T
+genpact,G
+,ALGM
+,NYKAA.NS
+,MARA
+rohm,6963.T
+,3443.TW
+,600588.SS
+,0522.HK
+global e,GLBE
+,GOTO.JK
+,LU
+,TENB
+,SMAR
+,DV
+,DARK.L
+elxsi,TATAELXSI.NS
+,NVMI
+,ALIT
+,3529.TWO
+pegasystems,PEGA
+,600060.SS
+,AUR
+,TPRO.MI
+,VRNS
+iqiyi,IQ
+kpit technologies,KPITTECH.NS
+squarespace,SQSP
+cirrus logic,CRUS
+,6415.TW
+,CWAN
+,CVLT
+,CLVT
+national semiconductor,5347.TWO
+sopra steria,SOP.PA
+vertex pharmaceuticals,VERX
+,DOCS
+,3888.HK
+,NVEI
+,PI
+,WK
+temenos,TEMN.SW
+,FROG
+acer group,2353.TW
+,BRZE
+,FORM
+united internet,UTDI.F
+,FRSH
+,FIVN
+,BLKB
+,DLO
+,SCT.L
+,PRESIGHT.AE
+silicon labs,SLAB
+power integrations,POWI
+,CLSK
+,ESMT
+,BOX
+nikon,NINOY
+tower semiconductor,TSEM
+,BL
+aci worldwide,ACIW
+ionos,IOS.DE
+,JUBLFOOD.NS
+,TDC
+nan ya plastics,8046.TW
+q2 software,QTWO
+axcelis technologies,ACLS
+,SOI.PA
+,OCDO.L
+,SYNA
+,ASAN
+,5483.TWO
+,377300.KS
+,AYX
+,NCNO
+sanmina,SANM
+envestnet,ENV
+phoenix energy group,PHX.AE
+,MELE.BR
+,CXM
+tvs,TOTS3.SA
+,ATHM
+wolfspeed,WOLF
+,6770.TW
+,8454.TW
+,EMBRAC-B.ST
+,DOCN
+vishay,VSH
+,PYCR
+,KXS.TO
+,RIOT
+,CDR.WA
+,4751.T
+,TKWY.AS
+,QFIN
+c3,AI
+ubisoft,UBI.PA
+software ag,SOW.F
+,MQ
+lumentum operations,LITE
+,RELY
+sega,6460.T
+,PLTK
+,INST
+,RPD
+,ZETA
+,CERT
+,CRDO
+,IBTA
+ringcentral,RNG
+,ROO.L
+,YELP
+,PWSC
+,002624.SZ
+aixtron,AIXA.F
+,036570.KS
+paytm,PAYTM.NS
+,JAMF
+,6789.TW
+,SWON.SW
+interdigital,IDCC
+,SIMO
+,LFST
+,ALKT
+kulicke and soffa,KLIC
+,YOU
+semtech,SMTC
+,WAF.F
+,AVDX
+,HIMS
+,FLYW
+,WB
+,APPN
+intapp,INTA
+,NABL
+,TMV.DE
+tietoevry,TIETO.HE
+,CLBT
+,LZ
+,UPST
+,NOD.OL
+,PRGS
+,SITM
+telus,TIXT
+agilysys,AGYS
+,RAMP
+,TDOC
+,LSPD
+eplus,PLUS
+,CMPR
+veeco instruments,VECO
+,AOF.F
+,VZIO
+,CRTO
+,3532.TW
+,QTCOM.HE
+suse,SUSE.DE
+,BAYANAT.AE
+,INDIAMART.NS
+,ROVR
+,YY
+,PD
+,SWI
+verint,VRNT
+,EXN.PA
+,IONQ
+,AMBA
+,CALX
+hypoport,HYQ.F
+,PAYO
+,RUM
+,UCTT
+,SEMR
+playtech,PTEC.L
+,TRN.L
+mercer,4385.T
+,3105.TWO
+,DAVA
+,DFIN
+photronics,PLAB
+,ODD
+,GRND
+,BMBL
+,EVCM
+,VYX
+blackberry,BB
+,SDGR
+sapiens,SPNS
+,ACMR
+,GCT
+xerox,XRX
+maxlinear,MXL
+,SOUN
+compass,COMP
+getty images,GETY
+,COP.DE
+,PDX.ST
+kfintech,KFINTECH.NS
+,SPT
+,KNOS.L
+,UDMY
+,PRO
+,PAR
+,STER
+,ZUO
+,AVPT
+,NB2.DE
+,COUR
+,PRG
+,VTEX
+pearl abyss,263750.KQ
+,BYIT.L
+,ETWO
+revolve,RVLV
+mediaalpha,MAX
+diebold nixdorf,DBD
+,EVBG
+,TANLA.NS
+netscout,NTCT
+,SSTK
+,DCBO
+,MTTR
+,ANIP
+,SPT.L
+,ACP.WA
+omnicell,OMCL
+lectra,LSS.PA
+cohu,COHU
+lumen,LUMN
+,TBLA
+,MLNK
+,CIFR
+,OVH.PA
+,ARLO
+,BASE
+,ICHR
+,PHR
+csg,CSGS
+kontron,KTN.F
+,LMND
+harmonic,HLIT
+,688018.SS
+pdf solutions,PDFS
+,MAPMYINDIA.NS
+,ENGH.TO
+,AMPL
+opera solutions,OPRA
+corsair,CRSR
+truecaller,TRUE-B.ST
+,FSLY
+,TTALO.HE
+,112040.KQ
+pubmatic,PUBM
+,MODN
+,ATEN
+hellofresh,HFG.DE
+,ALESK.PA
+,GENI
+,2432.T
+,NRDS
+,INFIBEAM.NS
+,2121.T
+,HUYA
+,YSN.F
+nagarro,NA9.DE
+,MUM.F
+,TUYA
+,THG.L
+,RPAY
+,TRST.L
+ziprecruiter,ZIP
+,QNST
+,IMOS
+,INDI
+,LC
+sabre,SABR
+digi international,DGII
+,EASEMYTRIP.NS
+,SGH
+,NXU.DE
+,DESP
+simulations plus,SLP
+gbg,GBG.L
+,NN
+,MASTEK.NS
+,EQS.PA
+,PSFE
+,XFAB.PA
+,RSKD
+,HIMX
+,NVTS
+,KARO
+,WPL.WA
+,3765.T
+,KIND
+,ATS.VI
+allscripts,MDRX
+,CBRAIN.CO
+fiverr inc,FVRR
+grid dynamics,GDYN
+snap one,SNPO
+,TTGT
+proto labs,PRLB
+,HUT
+conduent,CNDT
+,OLO
+,YALA
+,PGY
+,BUKA.JK
+,RDFN
+,ML
+,TOM2.AS
+,1686.HK
+,THRY
+,WKME
+,098460.KQ
+,IIIV
+,IREN
+,LAZR
+,WULF
+,MSTCLTD.NS
+,EMUDHRA.NS
+,YEXT
+,BTDR
+,UBXN.SW
+,HKD
+stratasys,SSYS
+lendingtree,TREE
+,ASTS
+,BITF
+,HSAI
+,VMEO
+mitek systems,MITK
+,EXAI
+,AOSL
+,PERI
+,TIGR
+,CORZ
+,BLND
+,LASR
+,MGIC
+weave,WEAV
+,SMWB
+,ABSI
+,NAZARA.NS
+,TXT.WA
+,DAVE
+varitronix,0710.HK
+,LWSA3.SA
+,PWFL
+,NNDM
+,JMIA
+,LQDT
+,DSP
+,TALK
+,ITRN
+,CGNT
+,DDI
+,CHGG
+,SCWX
+,CINT
+,3632.T
+,LFMD
+,ALNT
+,3668.T
+,SMRT
+,PLW.WA
+,XPER
+,LWLG
+ceva,CEVA
+3d systems,DDD
+digimarc,DMRC
+,SKYT
+,TM17.L
+,ICG
+,LAW
+,BIGC
+,QD
+,GRVY
+,NRDY
+onespan,OSPN
+,DAO
+hipp,HIPO
+,REAL
+,OUST
+,CIGNITITEC.NS
+nucleus software exports,NUCLEUS.NS
+,CTLP
+groupon,GRPN
+,CRNC
+,THNC.TO
+rackspace technology,RXT
+,AVALON.NS
+,APLD
+,ZH
+,GDEV
+,VOLUE.OL
+,BLZE
+sohu com,SOHU
+,MYTE
+,PSAN.DE
+,BBAI
+unisys,UIS
+,AIP
+,FRGE
+,069080.KQ
+netgear,NTGR
+faro technologies,FARO
+,11B.WA
+,NWO.F
+,078340.KQ
+audiocodes,AUDC
+microvision,MVIS
+,BRN.AX
+porch group,PRCH
+aehr test systems,AEHR
+american software,AMSWA
+,095660.KQ
+,SOPH
+,NEGG
+,MIXT
+materialise,MTLS
+,3694.T
+,MYPS
+,TGAN
+,QUICKHEAL.NS
+,TRAK
+,ADTH
+,DOMO
+,ACCELYA.NS
+,SPOK
+,ONTF
+8x8,EGHT
+,LSAK
+,PEXIP.OL
+spire,SPIR
+telos corporation,TLS
+,BTBT
+,SFIX
+ceragon networks,CRNT
+,TRUE
+,CAN
+,7844.T
+,LGCL
+,VLN
+agora,API
+,RDVT
+,PRTH
+,FOBK.F
+,CCSI
+,PAYS
+,RGTI
+,ME
+,FAA.DE
+,QBTS
+,PERF
+,HIVE
+,STEM
+,RMNI
+,MNDR
+,MOND
+,BARK
+,OB
+,APPS
+,2497.T
+,7201.SR
+,INVZ
+wm,MAPS
+quicklogic,QUIK
+,TDUP
+iteris,ITI
+tucows,TCX
+egain,EGAN
+,SST
+,MX
+,OPRX
+compugen isreal,CGEN
+,3793.T
+,BKSY
+,ALAR
+,ASUR
+,KLTR
+geospace technologies,GEOS
+,AEVA
+,RMBL
+trivago,TRVG
+,SSTI
+,AMWL
+,TIO
+,REKR
+,BZUN
+,4165.T
+,VCSA
+,AISP
+,EXFY
+,SYZ.TO
+,PCF.WA
+,DIB.MI
+matric,MYNA
+,SJJ.DE
+,ZFOX
+lantronix,LTRX
+,ALLD3.SA
+ehealth,EHTH
+,ARBE
+,4434.T
+,MRAM
+compro systems,CPSI
+,VERI
+,FDEV.L
+,SKLZ
+,WISH
+,3546.TWO
+,HUBC
+,CMCM
+,MKFG
+,INVE
+,TROO
+,STIX
+,ATOM
+pixelworks,PXLW
+,NACON.PA
+,MRX.F
+,XNET
+silicom,SILC
+,POET
+,GNSS
+,YI
+,KLR
+,3903.T
+,OCFT
+,IH
+,PET
+,AIXI
+,BMR
+,PETS
+,UPLD
+appen,APX.AX
+,RCAT
+,RR
+,ALLT
+,DOMA
+,VUZI
+,SYT
+,FORA
+,AUID
+natural health trends,NHTC
+,ARBK
+,CXAI
+,CASH3.SA
+,SURG
+,SWVL
+,3IINFOLTD.NS
+,ARQQ
+,QUBT
+,SNCR
+,LTCH
+,PRTS
+,CI7.F
+,VLD
+,KORE
+,WFCF
+intellicheck,IDN
+,STRC
+,3656.T
+,KPLT
+,FLN.AX
+,ALFOC.PA
+,BTH.AX
+comtech telecommunications,CMTL
+skillsoft,SKIL
+,TSP
+,GRYP
+atari,ALATA.PA
+,PHUN
+,EGIO
+,ONDS
+liveperson,LPSN
+transact technologies,TACT
+,GRRR
+,SATX
+,CPTN
+,VIOT
+,CZOO
+,NCTY
+,QMCO
+,BKKT
+,SDIG
+,NA
+usio,USIO
+,AIRE
+,3851.T
+,7060.T
+,SJ
+,4728.T
+sequans communications,SQNS
+,AKLI
+,3912.T
+,GFAI
+,STAR-B.ST
+,BTCM
+,4174.T
+,3667.T
+,HRYU
+,GMM
+2u,TWOU
+,ULY
+,MRAI
+,GREE
+smith micro,SMSI
+,EKSO
+,DUOT
+,9421.T
+,APCX
+,SOS
+,VRAR
+,RBT
+streamline health,STRM
+,STBX
+,3907.T
+,FCUV
+,ANY
+,ATER
+,4199.T
+,RVSN
+,PRST
+,VIAO
+,ALWIT.PA
+,PT
+,XELA
+,FRSX
+,YJ
+,CISO
+,WETG
+,CTM
+,AHI
+seachange,SEAC
+,SVRE
+,MINM
+,VERB
+,SPPL
+,JUMPNET.NS
+,CYN
+,ELWS
+,AGIL
+,INPX
+,SHPW
+,WATT
+,JTAI
+,BLBX
+,RWLK
+,IDAI
+,SCKT
+,LIDR
+,MF
+,UAVS
+marin software,MRIN
+,PIK
+,OLB
+,IMTE
+calamp,CAMP
+,AFN.L
+,LOV
+,MOB
+,UPH
+,GROM
+,TGL
+,MARK
+,ZOMD.V
+,SGN
+,LCFY
+,VS
+,ONFO
+,BKYI
+,NCPL
+,OBLG
+,GMVD
+,FRGT
+,TRIRF
+,MVLA
+,SLGG
+,CETX
+,BBIG
+,OGBLY
+,OZON.ME
+tibco software,TIBX
+epicor software,EPIC
+sonata software,SONATSOFTW.NS
+quest software,QSFT
+cognizant technology solutions,CTSH
+hcltech,HCLTECH.NS
+tech mahindra,TECHM.NS
+dxc technology,DXC
+raytheon technologies,RTX
+hexaware technologies,HEXT.NS
+zensar technologies,ZENSARTECH.NS
+kpit technologies,KPITTECH.NS
+accenture,ACN
+infosys,INFY.NS
+wipro,WIPRO.NS

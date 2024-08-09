@@ -1,0 +1,954 @@
+original_name,match_name,score,match_index
+microsoft,microsoft,100.0,4708
+apple,apple,100.0,9166
+nvidia,nvidia,100.0,8090
+alphabet google,google,61.08045977011495,8405
+amazon,amazon,100.0,24418
+meta platforms facebook,4th platform,55.396719222806176,28229
+tsmc,tsmc,100.0,23285
+broadcom,broadcom,100.0,23267
+tesla,tesla,100.0,27039
+tencent,tencent,100.0,5647
+samsung,samsung sds,76.89393939393938,23070
+asml,asml,100.0,6323
+oracle,oracle,100.0,10748
+salesforce,salesforce,100.0,11937
+netflix,netflix,100.0,12379
+amd,amd,100.0,27599
+adobe,adobe,100.0,6590
+sap,sap,100.0,24755
+qualcomm,qualcomm,100.0,21318
+alibaba,alitalia,60.59523809523809,2273
+pinduoduo,cindu,53.44193817878027,30504
+cisco,fisco,76.33333333333333,28683
+intuit,intuit,100.0,21503
+applied materials,applied materials,100.0,2660
+texas instruments,texas instruments,100.0,23539
+ibm,ibm,100.0,12185
+servicenow,servicenow,100.0,24481
+uber,uber,100.0,21619
+intel,kintell,82.93233082706767,26759
+micron technology,micron technology,100.0,10978
+schneider electric,schneider electric,100.0,20974
+booking holdings bookingcom,bookingcom,78.00232288037166,7439
+lam research,lam research,100.0,2700
+arm holdings,afc holdings,31.66666666666666,4110
+keyence,keyence,100.0,10773
+tokyo electron,tokyo electron,100.0,14301
+sony,sony,100.0,10868
+airbnb,airbnb,100.0,22915
+analog devices,analog devices,100.0,16953
+shopify,shippify,81.40217391304347,3547
+automatic data processing,ag processing,69.63419913419912,23910
+palo alto networks,agito networks,38.25396825396825,13537
+kla,kla,100.0,23610
+meituan,mercian,63.42857142857143,31432
+dell,dellner,72.06569900687548,6648
+fiserv,fiserv,100.0,1856
+sk hynix,sk hynix,100.0,21910
+arista networks,atx networks,34.44444444444444,3291
+mercadolibre,mercado global,73.64035087719299,3125
+synopsys,synopsys,100.0,23180
+cadence design systems,cadence design systems,100.0,7977
+crowdstrike,lucky strike,57.62739597942964,17936
+foxconn hon hai precision industry,siliconware precision industries,26.30769230769231,5364
+paypal,paypal,100.0,26261
+nxp semiconductors,orient semiconductor,16.19047619047619,20598
+workday,workbar,64.85714285714288,23484
+equinix,equinix,100.0,23598
+netease,netease com,100.0,1323
+marvell technology group,marvell technology,100.0,12899
+spotify,sify,70.63712757830405,29049
+constellation software,constellation,100.0,27018
+xiaomi,xiaomi,100.0,1921
+nintendo,nintendo,100.0,16097
+palantir,atlantia,62.2979797979798,23197
+coinbase,coin,65.99999999999999,13102
+roper technologies,roper technologies,100.0,28938
+snowflake,glassflake,59.80161943319838,1261
+dassault systemes,dassault systemes,100.0,20334
+mediatek,mediatek,100.0,25407
+microchip technology,microchip technology,100.0,4419
+jingdong mall,dowding mills,34.39230769230769,27054
+supermicro,superior,0.0,28194
+doordash,ddas,61.7549019607843,23222
+atlassian,atlantia,69.30196078431375,23197
+autodesk,autodesk,100.0,31246
+block,black,0.0,22515
+infineon,inficon,77.65217391304347,18451
+fortinet,fortunet,86.10555555555554,484
+the trade desk,the tree house,0.0,23283
+te connectivity,te connectivity,100.0,30892
+datadog,datadog,100.0,3844
+coupang,contango,60.59523809523809,28595
+iqvia,iqvia,100.0,23167
+baidu,baidu,100.0,12440
+fidelity national information services,senior information services,0.0,7607
+adyen,azkoyen,64.76190476190476,23046
+sea garena,area,0.0,9829
+costar group,costar group,100.0,28401
+wolters kluwer,wolters kluwer,100.0,1102
+stmicroelectronics,stmicroelectronics,100.0,20642
+monolithic power systems,electric power systems,0.0,10836
+electronic arts,electronic arts,100.0,12065
+tripcom,sipcom,74.34065934065934,21471
+kuaishou technology,kuxun technology,42.18702865761689,18796
+murata manufacturing murata seisakusho,murata manufacturing,48.44987468671679,15116
+veeva systems,wave systems,38.77777777777777,12128
+disco corp,saco corp,53.8974358974359,15146
+garmin,garmin,100.0,14650
+asm international,asa international,61.999999999999986,23240
+hubspot,hubspot,100.0,7413
+quanta computer,quanta computer,100.0,13752
+fico,fico,100.0,27902
+renesas electronics,nec electronics,31.32967032967032,26789
+on semiconductor,orient semiconductor,0.0,20598
+global payments,global payment technologies,89.83333333333334,29616
+ansys,ansys,100.0,8499
+hp,hpl,72.00000000000001,30228
+amadeus it group,amt group,43.14285714285715,24774
+snap,snap,100.0,24579
+globalfoundries,globalfoundries,100.0,5334
+canon,canon,100.0,26983
+zscaler,calero,67.68652400231348,27353
+mongodb,montego bay,60.57142857142858,10537
+splunk,spanlink,65.75,8226
+keysight,keyshift,66.65458937198068,6955
+didi,idi,79.28571428571429,31407
+delta electronics,dewey electronics,0.0,12264
+take 2 interactive,q interactive,1.6666666666666674,17796
+applovin,autovin,67.8030303030303,31580
+cloudflare,clare,73.31884057971013,31175
+ebay,ebay,100.0,22514
+symbotic,synbiotics,69.22222222222221,18291
+advantest,advantest,100.0,7201
+mobileye,mobilecause,74.57469431153643,2148
+smic,saic,70.84615384615385,6276
+lasertec,laser technology,74.93589743589743,22447
+delta electronics thailand,ultra electronics,17.307692307692307,18778
+kaspikz joint stock company,intricast company,36.036267138434326,8173
+ase group,asco group,56.26623376623377,8155
+microstrategy,microstrategy,100.0,17119
+hewlett packard enterprise,hewlett packard enterprise hpe,88.00696594427244,7051
+netapp,netapp,100.0,13995
+naver,nav,70.84615384615385,9194
+align technology,align technology,100.0,5182
+samsara,amara,74.28571428571429,121
+ptc,ptc,100.0,16429
+panasonic,panasonic,100.0,9429
+wisetech global,ltc global,20.795454545454543,28573
+nokia,nokia,100.0,22171
+zomato,zomato,100.0,6240
+united microelectronics,united microelectronics,100.0,1796
+tyler technologies,tyler technologies,100.0,6581
+entegris,entegris,100.0,31488
+nec corp,new corp,0.0,1302
+leidos,leidos,100.0,16310
+zoom,zoom,100.0,5963
+seagate technology,seagate technology,100.0,22203
+godaddy,agoda,58.68347338935573,22625
+ericsson,edison,67.0,28246
+pure storage,public storage,0.0,9045
+check point software,check point software technologies,100.0,7213
+factset,factset,100.0,23681
+okta,okia,70.84615384615385,22316
+zebra technologies,zebra technologies,100.0,25842
+bentley systems,bentley systems,100.0,9293
+kakao,kareo,60.0,19623
+nutanix,manutan,59.14285714285714,7730
+enphase energy,ps energy,24.92063492063492,16761
+robinhood,robbins toyota,64.98792270531402,17228
+ssc technologies,ssi technologies,61.999999999999986,3816
+akamai,akamai,100.0,3412
+expedia group,expedia group,100.0,28936
+yandex,standex,74.34065934065934,15913
+sage group,sag group,79.28571428571429,23780
+skyworks solutions,skyworks solutions,100.0,24342
+lenovo,lenovo,100.0,19682
+epam systems,epam systems,100.0,22728
+nice,nice,100.0,15225
+dynatrace,dynapac,68.87681159420292,19452
+grab holdings,g i holdings,0.0,17651
+trimble,trimble,100.0,17657
+nexon,nexen,78.33333333333333,22713
+manhattan associates,manhattan associates,100.0,17457
+toast,coast,0.0,16296
+logitech,logitech,100.0,21730
+adevinta,advanta,74.38636363636363,16693
+xero,xerox,83.55555555555556,13717
+bandai namco,bandai namco,100.0,6395
+aspentech,aspentech,100.0,2068
+gen digital,game digital,43.85714285714286,9498
+wiwynn,iwin,63.0,30948
+amec,seamec,76.33333333333334,1982
+jd health,uf health,0.0,18405
+docusign,docusign,100.0,30126
+astera labs,amira labs,54.73484848484848,22582
+jack henry amp associates,jack henry associates,82.46753246753246,1755
+novatek microelectronics,united microelectronics,80.70858688302907,1796
+zoominfo,zoomin,82.79220779220779,26487
+lg electronics,lg electronics,100.0,11007
+juniper networks,juniper networks,100.0,24343
+uipath,airpath,70.54366685945632,13271
+twilio,brillio,62.96124927703875,2756
+elastic nv,elmatic,58.67007672634272,13255
+nemetschek,nemetschek group,100.0,8560
+be semiconductor,lattice semiconductor,26.269841269841265,21788
+rakuten,rakuten,100.0,17177
+asus,asus,100.0,13582
+onto innovation,orion innovation,43.008547008547005,22898
+futu holdings,afc holdings,13.928571428571429,4110
+oracle corp japan,oracle,100.0,10748
+paycom,paycom,100.0,3783
+procore,core,70.63712757830405,23649
+cyberark,cyberia,71.88636363636363,21047
+unity software,accunity software,77.43589743589745,24091
+amdocs,amdocs,100.0,18423
+f5 networks,lc networks,0.0,12285
+zillow,zilog,73.20855614973263,9917
+lattice semiconductor,lattice semiconductor,100.0,21788
+allegroeu,allied group,0.0,23491
+guidewire software,id software,31.053391053391056,16455
+instacart maplebear inc,instantgmp inc,48.44057636253643,29529
+paylocity,travelocity,66.49350649350649,12406
+mondaycom,momcom,67.92207792207792,31116
+advantech,advantest,76.22222222222221,7201
+qorvo,ovo,62.0,1925
+dayforce,kforce,70.89285714285715,20361
+informatica,informatica,100.0,20813
+confluent,conduent,80.2061337355455,8368
+gitlab,gamelab,61.53267784846732,29139
+vipshop,hshop,64.76190476190476,8299
+roku,rku,79.28571428571429,9368
+unimicron,unikron,74.44444444444444,30688
+carsales,co sales,0.0,29258
+match group,swatch group,69.8752228163993,29339
+krafton,grafton,82.79220779220779,25243
+wayfair,wayfair,100.0,29566
+descartes systems,descartes systems,100.0,21294
+globant,globant,100.0,11730
+konami holdings,nii holdings,36.11111111111111,31082
+opentext,opentext,100.0,17785
+realtek,eltek,75.71428571428571,18977
+makemytrip,makemusic,59.80161943319838,2198
+coherent,coherent corp,100.0,27213
+amkor technology,atto technology,34.77777777777778,5846
+dropbox,droplets,55.26190476190476,3721
+reddit,reditech,69.64285714285714,12631
+globalwafers,global partners,0.0,21971
+delivery hero,delivery center,76.81476229863325,22310
+sofi,sanofi,76.33333333333334,29952
+macom,macom,100.0,25805
+lumine group,lindner group,54.61538461538462,30107
+etsy,etsy,100.0,23844
+m3 inc,moog inc,36.666666666666664,16952
+lyft,l soft,0.0,15548
+sps commerce,specialty commerce,0.0,27591
+chewy,chevy s,76.33333333333333,23662
+pb fintech,kfintech,77.22222222222223,29896
+altair engineering,dar engineering,37.77777777777778,1808
+zalando,applandeo,64.24242424242424,292
+trend micro,trend micro inc,100.0,27536
+topicus,opus,63.76948051948052,230
+schibsted,schibsted,100.0,392
+alibaba health information technology,b sol information technology,9.428571428571427,11546
+sentinelone,sun sentinel,82.55916698747913,17931
+ccc intelligent solutions,ccc intelligent solutions,100.0,18219
+wixcom,wacom,71.54188948306596,18115
+hashicorp,hexacorp,66.29084967320263,875
+alchip technologies,a technologies,0.0,31683
+nextdc,next,78.0,26868
+zozo,zoho,70.84615384615385,28190
+nanya technology,aea technology,40.454545454545446,3958
+entain,entain,100.0,30133
+qualys,qualogy,67.68652400231348,30287
+klaviyo,kla,62.42857142857143,23610
+rubrik,lubrin,60.82633053221288,28268
+bilibili,blibli,77.85714285714286,13781
+monotaro,rotary,57.53571428571428,22878
+genpact,genpact,100.0,24472
+allegro microsystems,integra micro systems,26.013888888888886,18842
+nykaa,nakama,65.3409090909091,7591
+marathon digital holdings,mat holdings,56.81818181818181,3101
+rohm,rohm,100.0,4501
+global unichip corp,global cif,15.14285714285714,13973
+yonyou,kony,53.90476190476191,17714
+asm pacific technology,abacus technology,31.111111111111107,6546
+globale,global e,0.0,789
+goto,godo,73.34615384615384,14013
+lufax,colfax,62.007575757575765,1894
+tenable,rentable,73.13636363636363,16764
+smartsheet,smart test,26.957983193277315,23212
+doubleverify,doovery,60.96828609986504,20906
+darktrace,markplace,63.11111111111111,24887
+tata elxsi,elxsi,100.0,12075
+nova measuring instruments,texas instruments,0.0,23539
+alight,dialight,82.79220779220779,14457
+ememory technology,key technology,31.32967032967032,31570
+pegasystems,pegasystems,100.0,585
+hisense visual technology,prosense technology,42.78499278499279,26884
+aurora innovation,c innovation,0.0,23300
+technoprobe,tecnopol,64.8505295873717,11686
+varonis,varitronics,76.89393939393938,27977
+iqiyi,iqiyi,100.0,29143
+kpit technologies,kpit technologies,100.0,13421
+squarespace,squarespace,100.0,19169
+cirrus logic,cirrus logic,100.0,17512
+silergy,sinergy,82.79220779220779,29194
+clearwater analytics,solar analytics,0.0,19165
+commvault,vault,72.85714285714286,10363
+clarivate,clari,70.63492063492063,15922
+vanguard international semiconductor,national semiconductor,0.0,7956
+sopra steria group,sopra steria,100.0,7997
+vertex,vertexone,78.12836438923397,3460
+doximity,proximity,80.2061337355455,28205
+kingsoft,kingston,66.65458937198068,9807
+nuvei,nuveen,73.20855614973263,3235
+impinj,improving,61.74603174603174,22099
+workiva,kiva,72.06569900687548,826
+temenos,temenos,100.0,3152
+jfrog,frog,83.55555555555556,29699
+acer,acergy,76.33333333333334,9848
+braze,brazzers,77.43589743589745,26738
+formfactor,factor,78.8,26764
+united internet,united internet,100.0,29133
+freshworks,southworks,64.76623376623377,7204
+five9,fives,76.33333333333333,20458
+blackbaud,blackboard,78.6842105263158,1762
+dlocal,ziplocal,69.64285714285714,8588
+softcat,softcare,77.65217391304347,19545
+presight ai,pharsight,60.02020202020202,27224
+silicon labs,silicon labs,100.0,13581
+power integrations,power integrations,100.0,26026
+cleanspark,cleanpak,82.66666666666667,17945
+engagesmart,emart,63.80105401844533,19841
+box,bos,65.33333333333333,8301
+nikon,nikon,100.0,28342
+tower semiconductor,tower semiconductor,100.0,507
+blackline,black,0.0,22515
+aci worldwide,aci worldwide,100.0,19269
+ionos group,inno group,57.89743589743589,13403
+jubilant foodworks,giant food,31.69082125603865,7033
+teradata,usadata,66.5530303030303,5265
+nan ya pcb,nan ya plastics,74.14285714285714,518
+q2,q2 software,100.0,19095
+axcelis technologies,axcelis technologies,100.0,15645
+soitec,stec,78.0,9691
+ocado,oca,70.84615384615385,5794
+synaptics,synbiotics,73.47368421052632,18291
+asana,altana,69.8752228163993,13230
+sinoamerican silicon products,american turned products,9.653846153846155,4583
+kakao pay,zap pay,53.13131313131313,7270
+alteryx,altera,75.76923076923077,9688
+ncino,no,65.85714285714285,19927
+sanmina,sanmina,100.0,27617
+envestnet,envestnet,100.0,9554
+phoenix group,phoenix energy group,100.0,19185
+melexis nv,alexis oil,58.33766233766233,27274
+sprinklr,spr,64.68582887700535,10293
+totvs,tvs,79.14285714285715,28762
+autohome,at home,0.0,4378
+wolfspeed,wolfspeed,100.0,1298
+powerchip semiconductor manufacturing,premier manufacturing,0.0,10598
+momocom inc,moog inc,46.38961038961039,16952
+embracer group,acer group,65.99999999999999,31030
+digitalocean,digital domain,32.0021645021645,18285
+vishay intertechnology,intechnology,73.51501439736734,3182
+paycor,paycorp,88.35164835164836,9036
+kinaxis,kinnarps,67.8030303030303,12994
+riot blockchain,hr block,51.8974358974359,259
+cd projekt,akola project,8.333333333333334,4282
+cyberagent,cybernet,72.29059829059828,31738
+just eat takeaway,just salad,48.65517924341454,13627
+360 digitech,ditech,67.65567765567765,2483
+c3 ai,c3,57.099567099567096,7579
+ubisoft,ubisoft,100.0,29308
+software ag,software ag,100.0,6976
+marqeta,marietta,80.15217391304347,31564
+lumentum,lument,82.79220779220779,30955
+remitly,reply,64.76190476190476,5322
+sega sammy holdings,sysma holdings,27.333333333333332,27982
+playtika,laika,70.48414304993253,27013
+instructure holdings,trt holdings,31.12681436210848,9718
+rapid7,rapid link,62.32919254658385,14397
+zeta global,tba global,38.857142857142854,11851
+certara,cortera,66.78571428571429,27104
+credo technology,creative technology,0.0,13514
+ibotta,bott,69.33333333333334,24563
+ringcentral,ringcentral,100.0,16118
+deliveroo,mr delivery,66.49350649350649,26312
+yelp,yeeldr,61.33333333333333,28224
+powerschool,lowell school,46.48586707410237,145
+perfect world entertainment,feld entertainment,29.974025974025974,13855
+aixtron,aixtron,100.0,24623
+ncsoft,neusoft,75.76923076923077,1210
+paytm,paytm,100.0,10883
+jamf,jamba,63.52380952380952,20756
+visera technologies,via technologies,64.52380952380952,413
+softwareone,softcare,73.6656034024455,19545
+interdigital,interdigital,100.0,28781
+silicon motion,silicon image,64.63963963963964,12548
+lifestance health group,ushealth group,12.88888888888889,31651
+alkami technology,align technology,44.81818181818181,5182
+kulicke and soffa industries,kulicke and soffa,100.0,9300
+clear secure,clear measure,76.99999999999999,787
+semtech,semtech,100.0,20071
+siltronic,filtronic,86.47619047619047,7360
+avidxchange,mfxchange,70.11912225705329,20733
+hims amp hers health,highmark health,31.405616605616604,1958
+flywire,wire,0.0,18290
+weibo,weyco,60.0,9702
+appian,appen,73.20855614973263,8493
+intapp,intapp,100.0,14280
+nable,rentable,69.23414304993251,16764
+teamviewer,teamvoy,61.52941176470589,24075
+tietoevry,tietoevry,100.0,16984
+cellebrite,collette,62.777777777777764,12674
+legalzoom,zoom,62.135852451641924,5963
+upstart,stuart,66.25795257374205,14899
+nordic semiconductor,orient semiconductor,31.85714285714286,20598
+progress software,qness software,45.96153846153847,14533
+sitime,biotime,70.54366685945632,29946
+telus international,tms international,48.0,20893
+agilysys,agilysys,100.0,28290
+liveramp,liverpool,65.17973856209152,14498
+teladoc health,orlando health,43.095238095238095,24696
+lightspeed pos,lightspeed venture partners,70.16666666666667,23571
+eplus,eplus,100.0,13917
+cimpress,impreso,73.13636363636363,10900
+veeco,eleco,66.0,12849
+atoss,atos,94.30555555555556,21265
+vizio,uffizio,69.04761904761905,31418
+criteo,criticare,60.63492063492063,2150
+formosa sumco technology,forsythe technology,36.52014652014652,18000
+qt group,wlt group,40.166666666666664,9229
+suse sa,suse,100.0,23461
+bayanat ai,alan ai,60.67007672634273,144
+indiamart,indomaret,72.51282051282051,1098
+rover,corover,80.07518796992483,7102
+joyy,yy,64.49999999999999,31191
+pagerduty,perdue,61.74603174603174,28967
+solarwinds,pollard windows,67.21354723707664,22448
+verint systems,t systems,0.0,16898
+exclusive networks,extensive networks,65.84615384615384,5188
+ionq,ionos,63.52380952380952,2207
+ambarella,barilla,69.98792270531402,29606
+calix,calyx,78.33333333333333,27666
+hypoport,hypoport,100.0,25657
+payoneer,pioneer,0.0,17744
+rumble,trimble,70.54366685945632,17657
+uct ultra clean holdings,airtran holdings,41.116883116883116,10708
+semrush,dealrush,61.845238095238095,705
+playtech,playtech,100.0,4393
+trainline,training,0.0,25996
+mercari,mercer,70.54366685945632,29217
+win semiconductors,tower semiconductor,19.409141583054627,507
+endava,eda,64.52380952380952,5286
+donnelley financial solutions,matrix financial solutions,7.777777777777777,20995
+photronics,photronics,100.0,5229
+oddity tech,ditech,41.547619047619044,2483
+grindr,indra,60.340909090909086,24826
+bumble,brambles,65.75,14118
+evercommerce,junipercommerce,75.06552706552708,31654
+ncr voyix corporation,tix corporation,36.38888888888888,29728
+blackberry,blackberry,100.0,21867
+schrodinger,schroders,73.21003134796238,27027
+sapiens,sapiens,100.0,18962
+acm research,lam research,45.0,2700
+gigacloud technology,euclid technology,39.141186299081035,16389
+xerox,xerox,100.0,13717
+maxlinear,maxlinear,100.0,10920
+soundhound ai,sound financial,60.88888888888888,8085
+compass,compass,100.0,8687
+getty images,getty images,100.0,29164
+compugroup medical,consort medical,33.831932773109244,10007
+paradox interactive,outdabox interactive,37.315789473684205,18801
+kfin technologies,kgn technologies,53.76623376623376,20346
+sprout social,the social,0.0,16534
+kainos group,kaiser group,57.49299719887955,31173
+udemy,dey,62.0,15317
+pros,ros,79.28571428571429,11136
+par technology,palle technology,54.0,9016
+sterling check,sterling chemicals,51.219715956558055,13628
+zuora,zucora,86.36363636363636,24700
+avepoint,salepoint,76.23006535947712,323
+northern data ag,northern metal fab,0.0,779
+coursera,cortera,74.38636363636363,27104
+prog holdings,pico holdings,34.45454545454545,24016
+vtex,vtx,79.28571428571429,18931
+pearl abyss,pearl abyss,100.0,2380
+bytes technology,ess technology,48.0,25233
+e2open,open,76.33333333333334,22121
+revolve,revolve,100.0,8922
+mediaalpha,mediaalpha,100.0,17752
+diebold nixdorf,diebold nixdorf,100.0,25482
+everbridge,enbridge,76.22222222222221,5694
+tanla,tala,83.55555555555556,4853
+netscout,netscout,100.0,7165
+shutterstock,shutter up,65.06353861192571,30526
+docebo,docobo,81.74185463659148,7486
+matterport,ritter sport,69.53323558162268,19247
+ani pharmaceuticals,avanir pharmaceuticals,64.52380952380952,15219
+spirent,spire,80.07518796992483,12137
+asseco,asarco,66.42857142857143,3257
+omnicell,omnicell,100.0,15265
+lectra sa,lectra,100.0,8355
+cohu,cohu,100.0,26309
+lumen,lumen,100.0,18786
+taboolacom,netacom,59.529411764705884,31197
+meridianlink,medialink,80.76958525345623,22636
+cipher mining,coeur mining,76.23076923076923,12740
+ovh groupe,v group,26.66666666666667,19925
+arlo technologies,faro technologies,60.5,20230
+couchbase,chase,72.85714285714286,28731
+ichor systems,r systems,0.0,5626
+phreesia,pessi,59.61538461538461,22293
+csg international,dsg international,61.999999999999986,8456
+kontron ag,kontron,100.0,28195
+lemonade,lemonspace,72.29059829059828,8262
+harmonic,harmonic,100.0,22744
+espressif systems shanghai,dsi process systems,36.186644772851665,14373
+pdf solutions,pdf solutions,100.0,11609
+mapmyindia,mdindia,69.63529411764706,16020
+enghouse systems,gse systems,49.81818181818182,12334
+amplitude,attiitude,65.84615384615384,24568
+opera,era,70.84615384615385,4078
+corsair gaming,corsair,100.0,6284
+truecaller,truecaller,100.0,13724
+fastly,fastik,64.76190476190476,10655
+terveystalo,terrestar,63.65656565656567,17286
+wemade,waymade,77.1978021978022,21254
+pubmatic,pubmatic,100.0,19517
+model n,motel one,78.33333333333333,12963
+a10 networks,a e networks,0.0,20207
+hellofresh,hellofresh,100.0,1542
+esker,kessler,67.61904761904762,21611
+genius sports,sp sports,11.666666666666666,20945
+dena,denka,83.55555555555556,5410
+nerdwallet,netcall,59.529411764705884,295
+infibeam avenues,coding avenue,56.50521778584392,2050
+mixi,mi,0.0,20830
+huya,hoya,73.34615384615384,30555
+secunet,secat,66.19047619047619,2491
+nagarro,nagarro,100.0,2116
+mensch und maschine,meiko maschinenbau,66.9867149758454,421
+tuya,ya,61.999999999999986,4800
+thg the hut group,the ct group,26.269841269841265,16347
+repay holdings,rooney holdings,49.81818181818182,22883
+trustpilot group,thus group,37.80952380952382,17885
+ziprecruiter,ziprecruiter,100.0,27810
+quinstreet,quinsa,65.32919254658384,930
+chipmos technologies,mips technologies,46.38961038961039,21929
+indie semiconductor,alliance semiconductor,0.0,18190
+lendingclub,lendingtree,65.21505376344085,31004
+sabre,sabre,100.0,19873
+digi international,digi international,100.0,28671
+easemytrip,seatris,55.96419437340154,24349
+smart global holdings,mat holdings,0.0,3101
+nexus ag,adexus s a,69.8752228163993,510
+despegar,tredegar,60.40458937198068,25161
+simulations plus,simulations plus,100.0,18035
+gb group gbg,bg group,50.0,27247
+nextnav,next,70.63712757830405,26868
+mastek,mastec,81.74185463659148,21053
+equasens,cequens,71.88636363636363,21787
+paysafe,ensafe,61.53267784846732,4770
+xfab,oxfam,55.8974358974359,21039
+riskified,iskin,52.33082706766916,11245
+himax,imax,83.55555555555556,25244
+navitas semiconductor,national semiconductor,0.0,7956
+karooooo,kareo,69.33029689608638,19623
+wirtualna polska wp holding,rotana holding,24.663157894736845,7979
+gungho online entertainment,hob entertainment,31.111111111111107,20629
+nextdoor,netdoktor,74.00784313725491,24973
+atamps austria technologie amp systemtechnik,air technology systems,0.0,26113
+allscripts,allscripts,100.0,6970
+cbrain,braineet,64.5,5044
+fiverr,fiverr inc,100.0,21989
+grid dynamics,grid dynamics,100.0,8280
+snap one,snap one,100.0,24080
+techtarget,target,79.8,11325
+protolabs,proto labs,70.63492063492063,30334
+hut 8 mining,hecla mining,67.25867269984917,672
+conduent,conduent,100.0,8368
+olo,accolo,67.85714285714285,24556
+yalla group,royal group,0.0,28926
+pagaya technologies,a technologies,0.0,31683
+bukalapakcom,sahayakcom,56.5569487983281,5937
+redfin,red roof inn,32.94871794871795,4988
+moneylion,motion,66.8109668109668,12274
+tomtom,toto,69.33333333333334,21951
+sunevision,evision,80.59502262443439,8654
+thryv,theory,63.67424242424242,30596
+walkme,askme,63.67424242424242,10326
+koh young technology,key technology,35.0,31570
+i3 verticals,vertical media,75.37164750957854,22445
+iris energy,us energy,0.0,8135
+luminar technologies,linear technologies,67.68652400231348,14603
+terawulf,terago,57.53571428571428,3467
+mstc limited,csr limited,16.428571428571427,28023
+emudhra,emera,66.19047619047619,28648
+yext,yeet,70.84615384615385,2409
+bitdeer technologies group,dmx technologies group,13.714285714285715,8550
+ublox,exablox,66.19047619047619,27177
+amtd digital,band digital,36.95454545454545,666
+stratasys,stratasys,100.0,8569
+lendingtree,lendingtree,100.0,31004
+ast spacemobile,t mobile,0.0,30444
+bitfarms,bitarmor,66.65458937198068,21916
+hesai group,si group,45.52380952380952,9121
+vimeo,imeco,66.0,30145
+mitek systems,mitek systems,100.0,25935
+exscientia,extia,68.96969696969697,12019
+alpha amp omega semiconductor,all american semiconductor,0.0,10261
+perion network,win network,36.11111111111111,23444
+up fintech tiger brokers,interactive brokers,52.31451612903226,12734
+core scientific,c a scientific,0.0,18056
+blend labs,genelabs,23.14102564102564,19469
+nlight,xunlight,82.79220779220779,24928
+magic software,msc software,48.0,13560
+weave communications,we communications,69.85714285714285,23797
+similarweb,milb,53.33082706766918,14773
+absci,ascii,76.33333333333333,21887
+nazara technologies,nz technologies,38.78787878787879,3917
+text livechat,teg live,63.95225464190981,4225
+dave inc,davidsons inc,48.239316239316246,12627
+boe varitronix,varitronix,83.18181818181817,31408
+locaweb,poaweb,69.11509543088489,16249
+powerfleet,partsfleet,64.76623376623377,3365
+nano dimension,solar dimensions,70.09167303284951,27508
+jumia,jumo,67.52380952380952,15679
+liquidity services,lift community services,41.29813976872801,17025
+viant technology,vitria technology,51.40151515151514,23702
+talkspace,adspace,68.87681159420292,2645
+ituran,vitran,71.42857142857144,18413
+cognyte software,camo software,29.974025974025974,10100
+doubledown interactive,dit interactive,20.903846153846157,13329
+chegg,cgg,72.84615384615385,29132
+secureworks,secureops,75.02821316614421,30621
+ciampt,cit,66.19047619047619,6773
+gree,grede,83.55555555555556,23721
+lifemd,lifetime,64.5,20162
+allient,alliant,84.22077922077924,16167
+colopl,coloplast,78.12836438923397,3947
+smartrent,smart test,26.724358974358974,23212
+playway,playboy,71.07142857142857,4807
+xperi,experian,70.48414304993253,5030
+lightwave logic,lightwave consulting,75.42857142857143,16322
+ceva,ceva,100.0,29047
+3d systems,3d systems,100.0,77
+digimarc,digimarc,100.0,8370
+skywater technology,edgewater technology,59.36274509803921,23670
+team17,teamvoy,61.53267784846732,24075
+intchains group,itrs group,42.40925087983912,2659
+cs disco,disco,74.93589743589743,20245
+bigcommerce,pdscommerce,72.87878787878788,6390
+qudian,qudini,73.0952380952381,28620
+gravity co,gravity park,100.0,23250
+nerdy,nera,65.52380952380952,24659
+onespan,onespan,100.0,7975
+youdao,yo,63.846153846153854,6014
+hippo,hipp,83.55555555555556,27781
+the realreal,the deal,52.588235294117645,27847
+ouster,koster,73.0952380952381,16631
+cigniti technologies,dignitas technologies,61.845238095238095,15440
+nucleus software exports,nucleus software exports,100.0,28665
+cantaloupe,canal group,62.42857142857142,5262
+groupon,groupon,100.0,7299
+cerence,verescence,73.88914027149322,10444
+thinkific labs,e thinklabs,55.333333333333336,25381
+rackspace technology,rackspace technology,100.0,24329
+avalon technologies,avalia technologies,66.42857142857143,21850
+applied blockchain,applied nanotech,24.41269841269841,8294
+zhihu,hibu,55.8974358974359,12408
+nexters,next,70.63712757830405,26868
+volue asa,volex,52.33082706766916,6750
+backblaze,emblaze,63.876811594202906,26508
+sohucom,sohu com,70.63712757830405,9185
+myt netherlands parent mytheresa,snv netherlands development organisation,51.636350574712644,12150
+psi software,id software,16.0,16455
+bigbearai,bedari,59.52380952380951,28019
+unisys,unisys,100.0,22680
+arteris,charteris,84.85555555555555,17950
+forge global,fox global,48.0,2051
+webzen,webcon,66.42857142857143,20311
+netgear,netgear,100.0,19148
+faro technologies,faro technologies,100.0,20230
+11 bit studios,ppb studios,15.555555555555555,4870
+new work,newkirk,49.246753246753244,3744
+com2us,compusa,69.11509543088489,16874
+audiocodes,audiocodes,100.0,10371
+microvision,microvision,100.0,6990
+brainchip,qbranch,64.24242424242424,3588
+porch group,porch group,100.0,31687
+aehr test systems,aehr test systems,100.0,14394
+american software,american software,100.0,29424
+neowiz games,tt games,3.3333333333333326,30917
+sophia genetics,stgenetics,71.89696969696969,1036
+newegg,new,0.0,8107
+mix telematics,telemis,64.08045977011494,8867
+materialise nv,materialise,86.61604010025063,11683
+optim,opti,83.55555555555556,13175
+playstudios,ppb studios,17.880061115355232,4870
+transphorm,transpire,69.80701754385964,3745
+quick heal,quinte health,44.642857142857146,18351
+repositrak,ositran,65.23529411764707,4755
+adtheorent,enherent,64.77777777777777,19033
+domo,dominos,63.76948051948052,8119
+accelya,acea,73.49427043544692,17833
+spok holdings,sompo holdings,51.8974358974359,2623
+on24,ono,53.76623376623376,23369
+8x8,8x8,100.0,21191
+lesaka technologies,lera technologies,57.99999999999999,7191
+pexip,pep,70.84615384615385,18298
+spire global,spin global,63.52380952380952,25675
+telos,etelos,86.36363636363636,12851
+bit digital,rabbit digital,67.85714285714285,1770
+stitch fix,switch it,58.33766233766233,27088
+ceragon networks,ceragon networks,100.0,13369
+truecar,truecaller,82.59502262443439,13724
+canaan,canon,74.87522281639929,26983
+marvelous,marel,66.12698412698414,7126
+lucas gc,lucas bols,65.84615384615384,28069
+valens semiconductor,vitesse semiconductor,35.06868131868132,368
+agoraio,agora,82.93233082706767,8834
+red violet,med valle,28.857142857142858,24631
+priority technology holdings,affinity technology,46.48809523809524,12582
+kneatcom,kineticom,70.99673202614379,31366
+consensus cloud solutions,coense solutions,52.04761904761905,30053
+paysign,lydesign,60.59523809523809,19068
+rigetti computing,secure computing,68.89483065953654,4569
+23andme,janome,54.61538461538462,15959
+fabasoft,erasoft,66.5530303030303,7623
+dwave quantum,quantum3d,57.91608391608391,2746
+perfect corp,perfect fit group,80.98124098124097,14071
+hive blockchain technologies,haviva technologies,38.065934065934066,9703
+stem,sten,73.34615384615384,24536
+rimini street,jump street,13.0,15547
+mobilehealth network solutions,mytek network solutions,21.578431372549023,2602
+mondee,mandee,81.74185463659148,6547
+the original bark company,the bales company,27.078477078477075,19230
+outbrain,lubrin,59.11654135338347,28268
+digital turbine,digital trike,52.261904761904766,12901
+united,unimed,0.0,12184
+arab sea information systems company,cass information systems,19.583333333333332,24583
+innoviz,innovid,82.79220779220779,4458
+wm technology,web technology,0.0,27743
+quicklogic,quicklogic,100.0,28526
+thredup,thread,67.68652400231348,7124
+iteris,iteris,100.0,2025
+tucows,tucows,100.0,22750
+egain,egain,100.0,5102
+system1,systemax,77.65217391304347,23767
+magnachip,magnar,66.8109668109668,17072
+optimizerx,optimized solutions,82.23593466424684,16970
+compugen,compugen isreal,71.48265261308741,5989
+drecom,firecom,74.34065934065934,28646
+blacksky technology,boa technology,30.08116883116883,28971
+alarum technologies,aarnum technologies,71.42857142857144,12588
+asure software,asure software,100.0,14051
+kaltura,altera,70.54366685945632,9688
+geospace technologies,geospace technologies,100.0,13941
+aeva technologies,a technologies,0.0,31683
+rumbleon,marbleon,67.90458937198068,7711
+trivago,trivago,100.0,21836
+shotspotter,sitespower,63.62591431556949,13531
+american well,american water,0.0,8264
+tingo group,inno group,55.8974358974359,13403
+rekor systems,r systems,0.0,5626
+baozun,bafin,56.401515151515156,17444
+plaidinc,paid inc,59.25490196078431,15981
+vacasa,vca,64.52380952380952,5382
+airship ai,ajira ai,60.77777777777777,13959
+expensify,sify,62.135852451641924,29049
+sylogist,sylis,69.23414304993251,5617
+people can fly,peoples bank nc,58.825757575757564,19032
+digital bros,digital taas,26.954545454545453,27025
+mynaric,matric,67.68652400231348,6665
+serviceware,servicesource,72.83559577677224,6643
+zerofox,xerox,66.19047619047619,13717
+lantronix,lantronix,100.0,31329
+allied tecnologia,alliance technologies,0.0,943
+ehealth,ehealth,100.0,29487
+arbe robotics,usrobotics,69.99391912435391,23739
+serverworks,enterworks,71.74891774891773,24124
+everspin technologies,innverse technologies,49.79797979797979,16623
+computer programs and systems,compro systems,33.273809523809526,4213
+veritone,verifone,84.85555555555555,4130
+frontier developments,fisher development,23.765147636115376,27440
+skillz,skillto,74.34065934065934,13305
+contextlogic wishcom,local wisdom,49.73076923076924,15678
+userjoy technology,zeus technology,28.545454545454547,8951
+hub cyber security,hunter security,47.74603174603173,24652
+cheetah mobile,china mobile,0.0,31433
+markforged,marorka,59.529411764705884,15176
+identiv,identigene,69.63529411764706,24651
+troops,trufoods,65.75,18719
+semantix,systematix,70.2905982905983,30727
+atomera,tomra,74.28571428571429,10961
+pixelworks,pixelworks,100.0,15037
+nacon,sacon,76.33333333333333,27120
+mister spex,masterflex,63.62591431556949,15478
+xunlei,xunlight,64.5,24928
+silicom,silicom,100.0,5498
+poet technologies,peel technologies,41.95454545454545,14366
+genasys,genesys,84.22077922077924,15824
+111 inc,hp inc,10.0,1441
+kaleyra,kalle,66.19047619047619,22170
+gumi,guni,73.34615384615384,18400
+oneconnect,u connect,0.0,17261
+ihuman,human,0.0,8292
+wag group,sag group,61.999999999999986,23780
+xiaoi,xiaomi,86.36363636363636,1921
+beamr imaging,afp imaging,13.999999999999998,4113
+1800petmeds,peet s,38.49760765550239,22489
+upland software,id software,27.121212121212118,16455
+appen,appen,100.0,8493
+red cat holdings,asat holdings,53.76623376623376,31719
+richtech robotics,usrobotics,62.39860181036651,23739
+allot,alliant,67.61904761904762,16167
+doma,xoma,70.84615384615385,21007
+vuzix,zix,70.84615384615385,2135
+syla technologies,a technologies,0.0,31683
+forian,soriana,69.11509543088489,26433
+authid,authentidate,63.78571428571428,23397
+natural health trends,natural health trends,100.0,18834
+argo blockchain,handr block,55.203619909502265,27201
+cxapp,xap,74.84615384615385,6018
+meliuz,merlin,57.49299719887955,20584
+surgepays,surgitel,55.07530548451265,9064
+swvl holdings,sompo holdings,23.888888888888893,2623
+3i infotech,gi infotech,45.23809523809524,21969
+arqit quantum,arquati,57.611111111111114,31395
+quantum computing,quanta computer,48.147606868834494,13752
+synchronoss,synchrone,81.27272727272728,5039
+latch,potlatch,74.93589743589743,27075
+carpartscom,cbssports com,43.2,29403
+ci games,4a games,5.0,10397
+velo3d,zvelo,60.340909090909086,16003
+kore,korex,83.55555555555556,4344
+where food comes from,fresh food company,0.0,21546
+intellicheck,intellicheck,100.0,17000
+sarcos technology and robotics,sand technology,24.971777269260105,22075
+klab,kla,79.28571428571429,23610
+katapult holdings,mat holdings,37.54545454545455,3101
+freelancercom,fragrance com,52.93224017361948,28330
+focus entertainment,corus entertainment,0.0,13009
+bigtincan,biogetica,61.33333333333334,30262
+comtech telecommunications,comtech telecommunications,100.0,29150
+skillsoft,skillsoft,100.0,12932
+tusimple,jsimple,77.65217391304347,16818
+gryphon digital mining,paragon digital marketing,21.428571428571427,20336
+atari,atari,100.0,24904
+phunware,ware,67.25,8100
+edgio,ogio,65.52380952380952,27549
+ondas holdings,s one holdings,0.0,28108
+liveperson,liveperson,100.0,9431
+transact technologies,transact technologies,100.0,27285
+gorilla technology,omra technology,40.1038961038961,24120
+satixfy communications,saga communications,37.68831168831169,10225
+cepton,centon,80.07518796992483,24712
+viomi technology,vitria technology,48.15151515151514,23702
+cazoo,bazzoo,73.20855614973263,18912
+the9,theory,59.66666666666667,30596
+quantum,quantum3d,84.85555555555555,2746
+bakkt holdings,asat holdings,34.77777777777778,31719
+stronghold digital mining,paragon digital marketing,20.016339869281047,20336
+nano labs,nfn labs,43.85714285714286,11151
+usio,usio,100.0,10143
+realpha tech,raha tech,63.76948051948052,15114
+nippon ichi software,orion software,12.88888888888889,16379
+geechs,gentech,67.68652400231348,944
+scienjoy,scikey,64.5,4156
+tose software,tibco software,34.77777777777778,29052
+sequans communications,sequans communications,100.0,13016
+akili,agiliti,64.76190476190476,28453
+mobile factory,software factory,100.0,18968
+guardforce ai,luke air force base,24.33006993006993,4829
+starbreeze,sthree,64.32919254658384,2481
+bit mining 500com,it com,0.0,15293
+appirits,appriss,73.13636363636363,26641
+enish,ennis,76.33333333333333,5775
+hanryu holdings,anvil holdings,30.497835497835503,7756
+global mofy metaverse,global partners,0.0,21971
+2u,2u,100.0,9582
+urgently inc,talent inc,0.0,28598
+marpai,mapa,71.0,52
+greenidge generation holdings,evergreen holdings,47.160764212488345,27580
+smith micro software,smith micro,100.0,21628
+ekso bionics,ebio metronics,63.66052866052866,9357
+duos technologies group,dmx technologies group,32.42857142857143,8550
+nj holdings,nii holdings,43.49999999999999,31082
+apptech payments,ip payments,73.21515594541911,29834
+sos limited,rosoft limited,43.67521367521367,8734
+the glimpse group,the ame group,32.75824175824176,31281
+rubicon technologies,ricom technologies,60.112044817927156,17603
+streamline health solutions,streamline health,100.0,5379
+starbox group,star group,0.0,9493
+silicon studio,silicon storage,100.0,3499
+focus universal,nbcuniversal,0.0,20954
+sphere 3d,spherion,59.36274509803921,16258
+aterian,eateria,75.35714285714286,12089
+wonderplanet,wonderware,65.33333333333333,28084
+rail vision,radvision,41.29813976872801,13196
+presto automation,premier automation,0.0,3226
+via optronics ag,vitronic,69.2991452991453,30867
+witbe sa,white stratus,10.952380952380954,20382
+pintec technology,intechnology,51.15079365079366,3182
+exela technologies,exent technologies,58.00000000000001,27970
+foresight autonomous holdings,cotton holdings,28.021978021978022,10169
+yunji,unfi,55.8974358974359,4885
+ciso global cerberus cyber sentinel,coti global sensors,34.087912087912095,3408
+wetrade group,martrade group,66.5530303030303,24386
+castellum,castelle,81.3172448466566,16176
+advanced health intelligence,access intelligence,100.0,15208
+seachange,seachange,100.0,9023
+saverone 2014,maveron,56.84188034188035,25501
+zoom telephonics,teltronics,60.59265734265734,8953
+verb technology,versus technology,57.99999999999999,30800
+simpple,jsimple,82.79220779220779,16818
+jump networks,juniper networks,47.81818181818181,24343
+cyngn,cyren,58.00000000000001,30933
+earlyworks,playworks,68.80701754385964,29788
+agilethought,agileone,57.8888888888889,13545
+inpixon,inficon,66.28571428571429,18451
+shapeways,safeway,65.35353535353535,25723
+energous,energy focus,0.0,4111
+jetai,jet,72.84615384615385,263
+blackboxstocks,blackbuck,67.80822981366458,14489
+rewalk robotics,usrobotics,65.85974025974026,23739
+trust stamp,trust essays,21.21212121212121,30332
+socket mobile,t mobile,0.0,30444
+aeye,cateye,69.33333333333334,24992
+missfresh,morco fresh,26.06909430438842,30545
+ageagle aerial systems,aae systems,33.193277310924366,4050
+marin software,marin software,100.0,1489
+kidpik,kik,72.66666666666667,13169
+olb group,olx group,61.999999999999986,11059
+imte,imtek,83.55555555555556,30284
+calamp,calamp,100.0,6458
+advfn,adv,72.84615384615385,988
+spark networks,phi networks,13.999999999999998,605
+mobilicom,mobicom,89.01709401709402,7898
+uphealth,unihealth,80.2061337355455,8534
+grom social enterprises,gsc enterprises,27.42857142857143,12886
+treasure global,tns global,30.08116883116883,11688
+remark holdings,mat holdings,34.44444444444444,3101
+zoomd technologies,cd technologies,32.0952380952381,4354
+signing day sports,sigma sport,35.932147562582344,16601
+locafy,lockey,64.76190476190476,3596
+versus systems,urs systems,45.34188034188034,17585
+onfolio holdings,nii holdings,24.571428571428573,31082
+biokey international,brinker international,48.81706528765353,5511
+netcapital,nb capital,20.333333333333332,27811
+oblong,bao long,64.5,8367
+g medical innovations,surgical innovations,100.0,18611
+"fr8tech 
+ freight technologies",cgh technologies,28.47252747252747,4864
+triterras,iteris,69.03318903318902,2025
+movella,novell,70.54366685945632,24950
+super league gaming,super glue,0.0,14934
+cemtrex,cemex,80.07518796992483,2415
+vinco ventures,icon ventures,43.666666666666664,11386
+onion global,ntn global,40.454545454545446,6256
+ozon,onzo,65.84615384615384,27189
