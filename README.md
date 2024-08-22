@@ -11,9 +11,10 @@ To achieve our goal, we'll follow these steps:
 1. Scrape Glassdoor reviews
 2. Clean Glassdoor data
 3. Retrieve tickers of the **top public IT firms**, effectively restricting the scope to only companies within the IT Industry, and only those with publicly available financial data
-4. Clean ticker data
-5. Merge datasets
-6. Extract employee retention data from Glassdoor review data
-7. Retrieve financial performance data
-8. Convert data to numerical values where possible, and prepare final database for input to the linear regression model
-9. Run the linear regression model and determine coefficients
+4. Merge datasets
+5. Clean merged data
+6. Exploratory data analysis
+7. Extract employee retention data from Glassdoor review data
+8. Retrieve financial performance data
+9. Convert data to numerical values where possible, and prepare final database for input to the linear regression model
+10. Run the linear regression model and determine coefficients
