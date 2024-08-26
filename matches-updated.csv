@@ -9,7 +9,6 @@ tsmc,TSM
 broadcom,AVGO
 tesla,TSLA
 tencent,TCEHY
-samsung electronics,005930.KS
 asml,ASML
 oracle,ORCL
 salesforce,CRM
@@ -29,12 +28,9 @@ servicenow,NOW
 uber,UBER
 intel corporation,INTC
 micron technology,MU
-schneider electric,SU.PA
 booking.com,BKNG
 lam research,LRCX
 arm,ARM
-keyence,6861.T
-tokyo electron,8035.T
 sony,SONY
 airbnb,ABNB
 analog devices,ADI
@@ -45,13 +41,11 @@ kla,KLAC
 ,3690.HK
 dell technologies,DELL
 fiserv,FI
-sk hynix,000660.KS
 arista,ANET
 ,MELI
 synopsys,SNPS
 cadence design systems,CDNS
 ,CRWD
-hon hai,2317.TW
 paypal,PYPL
 ,NXPI
 ,WDAY
@@ -59,15 +53,14 @@ equinix,EQIX
 netease com,NTES
 marvell technology,MRVL
 ,SPOT
-constellation,CSU.TO
+constellation,CNSWF
 xiaomi,XIACF
-nintendo,7974.T
+nintendo,NTDOY
 ,PLTR
 ,COIN
 roper technologies,ROP
 ,SNOW
-dassault systemes,DSY.PA
-mediatek,2454.TW
+dassault systemes,DASTY
 microchip technology,MCHP
 ,JD
 super mico computer inc supermicro,SMCI
@@ -75,7 +68,7 @@ super mico computer inc supermicro,SMCI
 ,TEAM
 autodesk,ADSK
 black,SQ
-infineon technologies,IFX.DE
+infineon technologies,IFX
 ,FTNT
 ,TTD
 te connectivity,TEL
@@ -87,29 +80,26 @@ baidu,BIDU
 ,ADYEN.AS
 ,SE
 costar group,CSGP
-wolters kluwer,WKL.AS
+wolters kluwer,WTKWY
 stmicroelectronics,STM
 ,MPWR
 electronic arts,EA
 ,TCOM
 ,1024.HK
-murata manufacturing,6981.T
 ,VEEV
 ,6146.T
 garmin,GRMN
-asm,ASM.AS
+asm,ASMIY
 hubspot,HUBS
-quanta computer,2382.TW
 fico,FICO
 ,6723.T
 onsemi,ON
 global payment technologies,GPN
 ansys,ANSS
 hp inc,HPQ
-amadeus,AMS.MC
 snap,SNAP
 globalfoundries,GFS
-canon,7751.T
+canon,CAJPY
 ,ZS
 ,MDB
 ,SPLK
@@ -121,10 +111,10 @@ take two,TTWO
 ,NET
 ebay,EBAY
 ,SYM
-advantest,6857.T
+advantest,ATEYY
 ,MBLY
 ,0981.HK
-laser technology,6920.T
+laser technology,LSR
 ,DELTA.BK
 ,KKS.F
 ,ASX
@@ -135,14 +125,13 @@ netapp,NTAP
 align technology,ALGN
 ,IOT
 ptc,PTC
-panasonic,6752.T
+panasonic,PC
 ,WTC.AX
 nokia,NOK
-zomato,ZOMATO.NS
 united microelectronics,UMC
 tyler technologies,TYL
 entegris,ENTG
-nec corporation,6701.T
+nec corporation,NIPNY
 leidos,LDOS
 zoom,ZM
 seagate technology,STX
@@ -161,41 +150,33 @@ bentley systems,BSY
 ss&c,SSNC
 akamai,AKAM
 expedia group,EXPE
-standex,YNDX.ME
-sage,SGE.L
+standex,SXI
 skyworks solutions,SWKS
-lenovo,0992.HK
 epam systems,EPAM
 nice,NICE
 ,DT
 grab,GRAB
 trimble,TRMB
-nexon automation,3659.T
 manhattan associates,MANH
 ,TOST
 logitech,LOGI
 ,ADE.OL
 ,XRO.AX
-bandai namco,7832.T
 aspentech,AZPN
 ,GEN
 ,6669.TW
 ,688012.SS
-jd com,6618.HK
+jd com,JD
 docusign,DOCU
 ,ALAB
 jack henry associates,JKHY
 ,3034.TW
 ,ZI
-lg electronics,066570.KS
 juniper networks,JNPR
 ,PATH
 ,TWLO
 ,ESTC
-nemetschek group,NEM.F
 ,BESI.AS
-rakuten,4755.T
-asus,2357.TW
 ,ONTO
 ,FUTU
 ,4716.T
@@ -248,19 +229,16 @@ etsy,ETSY
 ,POLICYBZR.NS
 ,ALTR
 ,ZAL.DE
-trend micro inc,4704.T
+trend micro inc,TMICY
 ,TOI.V
-schibsted,SCHA.OL
 ,0241.HK
 ,S
 ccc intelligent solutions,CCCS
 wix,WIX
 ,HCP
 ,3661.TW
-next,NXT.AX
-zoho,3092.T
+zoho,ZOHO
 ,2408.TW
-entain,ENT.L
 ,QLYS
 ,KVYO
 ,RBRK
@@ -270,7 +248,6 @@ genpact,G
 ,ALGM
 ,NYKAA.NS
 ,MARA
-rohm,6963.T
 ,3443.TW
 ,600588.SS
 ,0522.HK
@@ -281,7 +258,7 @@ global e,GLBE
 ,SMAR
 ,DV
 ,DARK.L
-elxsi,TATAELXSI.NS
+elxsi,ELXS
 ,NVMI
 ,ALIT
 ,3529.TWO
@@ -291,27 +268,22 @@ pegasystems,PEGA
 ,TPRO.MI
 ,VRNS
 iqiyi,IQ
-kpit technologies,KPITTECH.NS
 squarespace,SQSP
 cirrus logic,CRUS
 ,6415.TW
 ,CWAN
 ,CVLT
 ,CLVT
-national semiconductor,5347.TWO
-sopra steria,SOP.PA
+national semiconductor,NSM.2
 vertex pharmaceuticals,VERX
 ,DOCS
 ,3888.HK
 ,NVEI
 ,PI
 ,WK
-temenos,TEMN.SW
 ,FROG
-acer group,2353.TW
 ,BRZE
 ,FORM
-united internet,UTDI.F
 ,FRSH
 ,FIVN
 ,BLKB
@@ -327,10 +299,8 @@ nikon,NINOY
 tower semiconductor,TSEM
 ,BL
 aci worldwide,ACIW
-ionos,IOS.DE
 ,JUBLFOOD.NS
 ,TDC
-nan ya plastics,8046.TW
 q2 software,QTWO
 axcelis technologies,ACLS
 ,SOI.PA
@@ -343,10 +313,8 @@ axcelis technologies,ACLS
 ,NCNO
 sanmina,SANM
 envestnet,ENV
-phoenix energy group,PHX.AE
 ,MELE.BR
 ,CXM
-tvs,TOTS3.SA
 ,ATHM
 wolfspeed,WOLF
 ,6770.TW
@@ -362,12 +330,11 @@ vishay,VSH
 ,TKWY.AS
 ,QFIN
 c3,AI
-ubisoft,UBI.PA
-software ag,SOW.F
+software ag,SAGA
 ,MQ
 lumentum operations,LITE
 ,RELY
-sega,6460.T
+sega,SEGA
 ,PLTK
 ,INST
 ,RPD
@@ -380,9 +347,8 @@ ringcentral,RNG
 ,YELP
 ,PWSC
 ,002624.SZ
-aixtron,AIXA.F
+aixtron,AIIXy
 ,036570.KS
-paytm,PAYTM.NS
 ,JAMF
 ,6789.TW
 ,SWON.SW
@@ -402,7 +368,6 @@ semtech,SMTC
 intapp,INTA
 ,NABL
 ,TMV.DE
-tietoevry,TIETO.HE
 ,CLBT
 ,LZ
 ,UPST
@@ -422,7 +387,6 @@ veeco instruments,VECO
 ,CRTO
 ,3532.TW
 ,QTCOM.HE
-suse,SUSE.DE
 ,BAYANAT.AE
 ,INDIAMART.NS
 ,ROVR
@@ -434,14 +398,11 @@ verint,VRNT
 ,IONQ
 ,AMBA
 ,CALX
-hypoport,HYQ.F
 ,PAYO
 ,RUM
 ,UCTT
 ,SEMR
-playtech,PTEC.L
 ,TRN.L
-mercer,4385.T
 ,3105.TWO
 ,DAVA
 ,DFIN
@@ -463,7 +424,6 @@ compass,COMP
 getty images,GETY
 ,COP.DE
 ,PDX.ST
-kfintech,KFINTECH.NS
 ,SPT
 ,KNOS.L
 ,UDMY
@@ -476,7 +436,6 @@ kfintech,KFINTECH.NS
 ,COUR
 ,PRG
 ,VTEX
-pearl abyss,263750.KQ
 ,BYIT.L
 ,ETWO
 revolve,RVLV
@@ -492,7 +451,6 @@ netscout,NTCT
 ,SPT.L
 ,ACP.WA
 omnicell,OMCL
-lectra,LSS.PA
 cohu,COHU
 lumen,LUMN
 ,TBLA
@@ -504,7 +462,7 @@ lumen,LUMN
 ,ICHR
 ,PHR
 csg,CSGS
-kontron,KTN.F
+kontron,KBMC
 ,LMND
 harmonic,HLIT
 ,688018.SS
@@ -514,14 +472,12 @@ pdf solutions,PDFS
 ,AMPL
 opera solutions,OPRA
 corsair,CRSR
-truecaller,TRUE-B.ST
 ,FSLY
 ,TTALO.HE
 ,112040.KQ
 pubmatic,PUBM
 ,MODN
 ,ATEN
-hellofresh,HFG.DE
 ,ALESK.PA
 ,GENI
 ,2432.T
@@ -530,7 +486,6 @@ hellofresh,HFG.DE
 ,2121.T
 ,HUYA
 ,YSN.F
-nagarro,NA9.DE
 ,MUM.F
 ,TUYA
 ,THG.L
@@ -548,7 +503,6 @@ digi international,DGII
 ,NXU.DE
 ,DESP
 simulations plus,SLP
-gbg,GBG.L
 ,NN
 ,MASTEK.NS
 ,EQS.PA
@@ -613,7 +567,6 @@ weave,WEAV
 ,NAZARA.NS
 ,TXT.WA
 ,DAVE
-varitronix,0710.HK
 ,LWSA3.SA
 ,PWFL
 ,NNDM
@@ -652,7 +605,6 @@ hipp,HIPO
 ,REAL
 ,OUST
 ,CIGNITITEC.NS
-nucleus software exports,NUCLEUS.NS
 ,CTLP
 groupon,GRPN
 ,CRNC
@@ -803,7 +755,6 @@ silicom,SILC
 ,BMR
 ,PETS
 ,UPLD
-appen,APX.AX
 ,RCAT
 ,RR
 ,ALLT
@@ -839,7 +790,7 @@ comtech telecommunications,CMTL
 skillsoft,SKIL
 ,TSP
 ,GRYP
-atari,ALATA.PA
+atari,ATAR
 ,PHUN
 ,EGIO
 ,ONDS
@@ -953,16 +904,10 @@ calamp,CAMP
 ,OZON.ME
 tibco software,TIBX
 epicor software,EPIC
-sonata software,SONATSOFTW.NS
 quest software,QSFT
 cognizant technology solutions,CTSH
-hcltech,HCLTECH.NS
-tech mahindra,TECHM.NS
 dxc technology,DXC
 raytheon technologies,RTX
-hexaware technologies,HEXT.NS
-zensar technologies,ZENSARTECH.NS
-kpit technologies,KPITTECH.NS
 accenture,ACN
-infosys,INFY.NS
-wipro,WIPRO.NS
+infosys,INFY
+wipro,WIT
