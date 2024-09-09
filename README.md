@@ -16,5 +16,5 @@ To achieve our goal, we'll follow these steps:
 6. Exploratory data analysis
 7. Extract employee retention data from Glassdoor review data
 8. Retrieve financial performance data
-9. Convert data to numerical values where possible, and prepare final database for input to the linear regression model
-10. Run the linear regression model and determine coefficients
+9. Merge into final dataset and prepare for linear regression
+10. Run the linear regression model on the final dataset
