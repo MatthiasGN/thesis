@@ -1,6 +1,6 @@
 # Analysing Glassdoor Reviews: Impact of Job Satisfaction on Employee Retention and Firm Performance in the IT Industry
 
-The goal here is to create a **linear regression model** to help with the titular objective. We want to determine the impact of **job satisfaction** on:
+The goal here is to create a **regression model** to help with the titular objective. We want to determine the impact of **job satisfaction** on:
 1. **Employee retention**, and
 2. **Firm performance**,
 3. within the **IT industry** only.
@@ -16,5 +16,6 @@ To achieve our goal, we'll follow these steps:
 6. Exploratory data analysis
 7. Extract employee retention data from Glassdoor review data
 8. Retrieve financial performance data
-9. Merge into final dataset and prepare for linear regression
-10. Run the linear regression model on the final dataset
+9. Merge into final dataset and prepare for regression
+10. Run numerous regression model on the final dataset
+11. Compare and evaluate model performances
