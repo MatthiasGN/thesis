@@ -17,5 +17,5 @@ To achieve our goal, we'll follow these steps:
 7. Extract employee retention data from Glassdoor review data
 8. Retrieve financial performance data
 9. Merge into final dataset and prepare for regression
-10. Run numerous regression model on the final dataset
+10. Create regression models on the final dataset
 11. Compare and evaluate model performances
