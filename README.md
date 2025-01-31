@@ -1,4 +1,9 @@
-# Analysing Glassdoor Reviews: Impact of Job Satisfaction on Employee Retention and Firm Performance in the IT Industry
+<p align="center">
+  <img align="center" src="final-thesis-cover.png" height="800" />
+</p>
+
+
+
 
 The goal here is to create **machine learning models** to help with the titular objective. We want to determine the impact of:
 1. **Job satisfaction** on
